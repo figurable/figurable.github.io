@@ -1,0 +1,16 @@
+---
+layout: blog
+---
+
+<article class="post">
+  <h2>{{ page.title }}</h2>
+  <h5> {{ page.date | date: "%B %e, %Y" }}</h5>
+
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+
+  {% include disqus.html %}
+</article>

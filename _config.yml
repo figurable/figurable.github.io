@@ -1,6 +1,6 @@
 # Site settings
-title:
-email:
+title: 15/85
+email: info@1585security.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
